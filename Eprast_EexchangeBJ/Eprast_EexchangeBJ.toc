@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Eprast_EexchangeBJ
+## Author: Gebbet (WBtest2)
+## Version: WotLK
+## Notes: Обмен баджей
+
+Core.lua
