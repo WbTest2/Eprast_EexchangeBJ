@@ -2,5 +2,5 @@
 Аддон для обмена баджей у НПС в клоаке. WotLK (3.3.5a)
 
 <p align="center">
-   <img src="https://i.ibb.co/C1DQJv9/Screenshot-2.jpg" width="336" title="BJ">
+   <img src="https://i.ibb.co/C1DQJv9/Screenshot-2.jpg" width="334" title="BJ">
  </p>
